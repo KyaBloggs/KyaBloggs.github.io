@@ -1,14 +1,14 @@
-title: Sé más que un blogger
-description:  Aprende a crear un blog.
+title: EL BLOGG DE KYA
+description:  Videojuegos y retos
 permalink: ':title/'
 baseurl: "/" 
-url: "https://canvas2017.github.io" 
+url: " https://kyabloggs.github.io/" 
 site-twitter: 
 
 
-author: Sé más que un blogger  
+author: EL BLOGG DE KYA
 author-img: logo-pie.png  
-about-author: El taller Malagabyte Summer para aprender a crear un blog con jekyll y una página web con HTML5 y CSS3.
+about-author: Un blogg en el que se harán retos con mi hermana o con invitados sorpresa y en el que también se jugarán a videojuegos.
 social-twitter: 
 social-facebook: 
 social-github: 
