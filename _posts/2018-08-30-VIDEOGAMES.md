@@ -3,7 +3,7 @@ layout: post
 title: VIDEOGAMES
 date: 2018-08-30
 description: videojuegos y retos 
-img: html-img.jpg 
+img: po.gif
 fig-caption: 
 tags: [Tecnología, Programación]
 ---
