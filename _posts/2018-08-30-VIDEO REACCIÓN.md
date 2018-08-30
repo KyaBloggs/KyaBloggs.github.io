@@ -3,7 +3,7 @@ layout: post
 title: VIDEO REACCIONES
 date: 2018-08-30
 description: videojuegos y retos 
-img: po vale.png
+img: vale.png
 fig-caption: 
 tags: [Tecnología, Programación]
 ---
