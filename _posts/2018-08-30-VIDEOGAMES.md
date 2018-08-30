@@ -8,24 +8,5 @@ fig-caption:
 tags: [Tecnología, Programación]
 ---
 
-
-
-# texto
-## texto
-### texto
-#### texto
-##### texto
-###### texto
-
-**HTML**, (Hypertext Markup Language), es uno de los tres inventos detrás de la *World Wide Web*. Este lenguaje estandarizado hace posible construir páginas web y estructurar párrafos,.. listas o tablas. También permite integrar en estas páginas elementos multimedia como imágenes, secuencias de video y sonidos.
-
-1. `<HTML>` 	Este es el comienzo de un documento HTML.
-2. `<HEAD>` 	Este es el comienzo del área de encabezado.
-3. `<BODY>` 	Este es el comienzo del documento en sí.
-
-* Por lo general cada etiqueta de inicio de una acción, <...>,  y tiene una etiqueta final de una acción </ ...>.
-* las etiquetas no son "sensibles a mayúsculas y minúsculas".  
-
-> El lenguaje HTML fue inventado por [Tim Berners-Lee](https://es.wikipedia.org/wiki/Tim_Berners-Lee/) en la década de 1990.
-
-
+Hola, he creado este blogg junto con mi hermana **Macarena**. Ella tambien tiene un blogg de videojuegos y retos así que también aparecerá por el blogg. Me encantan los videojuegos y me pasaria todo el dia jugando y por eso decidí hacer video reacciones como: 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KRpk-COrRws" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
