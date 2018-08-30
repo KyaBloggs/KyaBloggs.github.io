@@ -1,6 +1,6 @@
 ---
 layout: post
-title: VIDEOGAMES
+title: INICIO
 date: 2018-08-30
 description: videojuegos y retos 
 img: po.gif
